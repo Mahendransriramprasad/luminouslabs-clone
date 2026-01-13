@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { FaChevronDown } from "react-icons/fa";
 import { FaBagShopping } from "react-icons/fa6";
 const Cart = () => {

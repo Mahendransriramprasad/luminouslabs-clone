@@ -1,7 +1,7 @@
 import React from 'react'
-import Logo from './logo'
-import Menu from './menu'
-import Cart from './cart'
+import Logo from './Logo'
+import Menu from './Menu'
+import Cart from './Cart'
 const Nav = () => {
   return (
     <div className=" flex justify-between px-20 py-8 ">

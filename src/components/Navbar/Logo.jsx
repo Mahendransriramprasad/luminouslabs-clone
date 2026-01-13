@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { MdBubbleChart } from "react-icons/md";
 const Logo = () => {
   return (
