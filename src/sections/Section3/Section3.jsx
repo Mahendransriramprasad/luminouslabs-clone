@@ -1,6 +1,7 @@
+import Sectionheader from '../../components/Sectionheader';
 import ApplicationCard from './ApplicationCard'
 import { FaArrowRight } from "react-icons/fa6";
-const Section3 = () => {
+const Section3 = (props) => {
     const cards = [
   {
     image: "https://cdn.prod.website-files.com/671898ae57fbee5bf1da9fba/6748577ad24e2f2050ddaf30_man.webp",
@@ -23,10 +24,7 @@ const Section3 = () => {
 ]
   return (
     <>
-        <div className='text-center'>
-            <h2 className='font-semibold text-sm text-gray-400'>Applications</h2>
-            <h1 className='font-medium  text-2xl'>Start shaping your tomorrow</h1>
-        </div>
+        <Sectionheader title={props.title} subtitle={props.subtitle}/>
         <div className='flex gap-10 justify-center mt-10 mb-20'>
             {
                 cards.map(function(elem,key){

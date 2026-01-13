@@ -3,6 +3,32 @@
 body {
   background-color:azure;
 }
-.container{
-  display:block;   margin: 5px;
+
+/* ============================= */
+/* Global Font Family */
+/* ============================= */
+
+body,
+button,
+input,
+textarea {
+  font-family: "Inter", Arial, sans-serif;
+}
+
+
+
+/* Optional: smooth text rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Example headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inter", Arial, sans-serif;
 }
