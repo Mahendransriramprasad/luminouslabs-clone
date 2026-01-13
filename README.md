@@ -1,16 +1,70 @@
-# React + Vite
+🌟 Luminous Labs Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend clone of the Luminous Labs website built using React + Vite.
+This project is created only for learning and practice purposes.
 
-Currently, two official plugins are available:
+🔗 Live Demo:
+https://luminouslabs-clone-dn0fsibbh-sriram-prasad-ms-projects.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 About This Project
 
-## React Compiler
+This is a UI clone of the Luminous Labs website.
+The goal of this project is to:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Practice React component structure
 
-## Expanding the ESLint configuration
+Improve layout building skills
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Learn real-world UI cloning
+
+Understand modern website design patterns
+
+⚠️ This is NOT the official Luminous Labs website.
+
+🛠️ Built With
+
+React
+
+Vite
+
+JavaScript
+
+CSS
+
+HTML
+
+✨ Features
+
+Responsive navbar
+
+Hero section
+
+Product sections
+
+Clean UI layout
+
+Component-based structure
+
+Fast loading with Vite
+
+📂 Project Setup
+
+To run this project locally:
+
+git clone https://github.com/Mahendransriramprasad/luminouslabs-clone.git
+cd luminouslabs-clone
+npm install
+npm run dev
+
+🚀 Build for Production
+npm run build
+
+📸 Preview
+
+You can view the live site here:
+👉 https://luminouslabs-clone-dn0fsibbh-sriram-prasad-ms-projects.vercel.app
+
+⚠️ Disclaimer
+
+This project is made only for educational purposes.
+All design credits go to the original Luminous Labs website.
